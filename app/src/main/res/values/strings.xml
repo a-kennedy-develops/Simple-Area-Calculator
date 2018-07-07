@@ -1,0 +1,10 @@
+
+<resources>
+    <string name="app_name">Simple Android Calculator</string>
+    <string name="tri_base">Base</string>
+    <string name="tri_height">Height</string>
+    <string name="square_length">Length</string>
+    <string name="circle_radius">Radius</string>
+    <string name="please_enter">Please enter a numeric value</string>
+    <string name="please_make">Please select a shape</string>
+</resources>
